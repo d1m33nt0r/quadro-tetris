@@ -1,4 +1,4 @@
-# Cubic-Tetris
+# Quadro-Tetris
 
 ![](demo.gif) 
 
